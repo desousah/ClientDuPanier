@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ClientDuPanier (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ClientDuPanier (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
